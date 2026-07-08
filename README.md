@@ -5,7 +5,7 @@ Documentation, institutional certificates, and verified farmer testimonials for 
 This repository contains verified institutional documentation and field testimonials validating my practical experience in agricultural diagnostics, rural extension work, and community service.
 
 ## 📄 Institutional Certificates
-*## 📄 Verification Documents
+## 📄 Verification Documents
 
 * [Official NSS & Special Camp Certificates](./NSS%20Volunteer.pdf) — *Contains both the 2-Year Volunteering Certificate and the 7-Day Special Camp Certificate.*
 
