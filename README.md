@@ -5,13 +5,14 @@ Documentation, institutional certificates, and verified farmer testimonials for 
 This repository contains verified institutional documentation and field testimonials validating my practical experience in agricultural diagnostics, rural extension work, and community service.
 
 ## 📄 Institutional Certificates
-*[Official NSS Volunteer Certificate](./NSS_Volunteer.pdf)
+*## 📄 Verification Documents
 
+* [Official NSS & Special Camp Certificates](./NSS%20Volunteer.pdf) — *Contains both the 2-Year Volunteering Certificate and the 7-Day Special Camp Certificate.*
 
 ## 🚜 Fieldwork Feedback & Technical Impact
 This section contains verified feedback letters from local farmers detailing my field diagnostic interventions, organic agrotech setups, and pest management consultations.
 
-* * [Original Handwritten Farmer Testimonials](./Farm%20Volunteership%20Original.pdf)
+* [Original Handwritten Farmer Testimonials](./Farm%20Volunteership%20Original.pdf)
 
 
 * [English Translations of Testimonials](./Farmer_Feedback_Translations.pdf)
