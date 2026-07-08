@@ -5,7 +5,8 @@ Documentation, institutional certificates, and verified farmer testimonials for 
 This repository contains verified institutional documentation and field testimonials validating my practical experience in agricultural diagnostics, rural extension work, and community service.
 
 ## 📄 Institutional Certificates
-* [Official 2-Year NSS Volunteering Farm Volunteership.pdf - Verifies completion of institutional social service commitments.
+* [Official 2-Year NSS Volunteering and 7-Day Intensive Special Camp Certificate].
+.(./https://github.com/santhosh-subramani-agri/agricultural-fieldwork-portfolio/blob/main/NSS%20Volunteer.pdf).
 * [7-Day Intensive Special Camp Certificate](./NSS_Special_Camp_Certificate.pdf) - Verifies execution of localized community development models.
 
 ## 🚜 Fieldwork Feedback & Technical Impact
